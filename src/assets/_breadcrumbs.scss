@@ -1,0 +1,64 @@
+body {
+  background-color: $porcelain;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 15px;
+  background-color: $white;
+  color: $blue-lagoon;
+  border: 1px solid $alto;
+  font-weight: bold;
+  cursor: pointer;
+  &:hover {
+    opacity: .9;
+  }
+  &:disabled {
+    opacity: .4;
+    cursor: not-allowed;
+  }
+  &.is-danger {
+    background-color: $red;
+    border-color: $red;
+    color: $white
+  }
+  &.is-primary {
+    background-color: $blue-lagoon;
+    border-color: $blue-lagoon;
+    color: $white
+  }
+}
+
+
+.bc-field {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  &.grouped {
+    flex-direction: row;
+  }
+  &.is-danger {
+    color: $red;
+  }
+  span.label {
+    display: inline-block;
+    margin-bottom: 6px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  span.message {
+    font-size: 11px;
+    margin-top: 4px;
+    &.is-danger {
+      color: $red;
+    }
+  }
+  input {
+    padding-left: 10px;
+    border-radius: 5px;
+    min-height: 32px;
+    min-width: 100px;
+    border: 1px solid $alto;
+  }
+}

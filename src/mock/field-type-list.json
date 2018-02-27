@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "icon": "mdi-calendar-check",
+    "name": "Cary",
+    "definition": "i-Series",
+    "display_name": "Blick Group"
+  },
+  {
+    "id": 2,
+    "icon": "mdi-android",
+    "name": "Peatman",
+    "definition": "Mustang",
+    "display_name": "Simonis Inc"
+  },
+  {
+    "id": 3,
+    "icon": "mdi-approval",
+    "name": "Ash",
+    "definition": "Daewoo Kalos",
+    "display_name": "Rutherford LLC"
+  },
+  {
+    "id": 4,
+    "icon": "mdi-all-inclusive",
+    "name": "Craske",
+    "definition": "Xterra",
+    "display_name": "Ondricka, Hirthe and Hilpert"
+  },
+  {
+    "id": 5,
+    "icon": "mdi-alarm-bell",
+    "name": "Guise",
+    "definition": "Ram Van 1500",
+    "display_name": "Bode LLC"
+  },
+  {
+    "id": 6,
+    "icon": "mdi-basecamp",
+    "name": "Lumox",
+    "definition": "Expo",
+    "display_name": "Gorczany, Skiles and Marvin"
+  },
+  {
+    "id": 7,
+    "icon": "mdi-arrow-left-drop-circle",
+    "name": "Rothon",
+    "definition": "Lumina",
+    "display_name": "Pacocha, Beer and Donnelly"
+  },
+  {
+    "id": 8,
+    "icon": "mdi-arrow-expand-all",
+    "name": "Quilliam",
+    "definition": "3 Series",
+    "display_name": "Luettgen LLC"
+  },
+  {
+    "id": 9,
+    "icon": "mdi-atom",
+    "name": "Davidovici",
+    "definition": "Contour",
+    "display_name": "Thompson and Sons"
+  },
+  {
+    "id": 10,
+    "icon": "mdi-bookmark-music",
+    "name": "Wudeland",
+    "definition": "Camry",
+    "display_name": "Price-Bergnaum"
+  }
+]

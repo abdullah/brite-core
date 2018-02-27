@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Software: Programming, Data Processing",
+    "fieldTypeId": 3,
+    "fieldDetails": {
+      "display_name": "Bartram's Airplant",
+      "reference_name": "Tillandsia bartramii Elliott",
+      "default_value": "Eabox",
+      "custom_validation": "",
+      "fieldGroupId": 2,
+      "tags": [2]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Real Estate Investment Trusts",
+    "fieldTypeId": 5,
+    "fieldDetails": {
+      "display_name": "Wedge Beggarticks",
+      "reference_name": "Bidens cuneata Sherff",
+      "default_value": "Dynava",
+      "custom_validation": "",
+      "fieldGroupId": 2,
+      "tags": [1]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Home Furnishings",
+    "fieldTypeId": 2,
+    "fieldDetails": {
+      "display_name": "Rio Grande Saddlebush",
+      "reference_name": "Mortonia sempervirens A. Gray",
+      "default_value": "Trilia",
+      "custom_validation": "",
+      "fieldGroupId": 2,
+      "tags": []
+    }
+  },
+  {
+    "id": 4,
+    "name": "Industrial Machinery/Components",
+    "fieldTypeId": 1,
+    "fieldDetails": {
+      "display_name": "Gale Of The Wind",
+      "reference_name": "Phyllanthus niruri L. ssp. niruri",
+      "default_value": "Flashpoint",
+      "custom_validation": "",
+      "fieldGroupId": 3,
+      "tags": []
+    }
+  },
+  {
+    "id": 5,
+    "name": "Commercial Banks",
+    "fieldTypeId": 1,
+    "fieldDetails": {
+      "display_name": "Urena",
+      "reference_name": "Urena L.",
+      "default_value": "Roombo",
+      "custom_validation": "",
+      "fieldGroupId": 3,
+      "tags": []
+    }
+  },
+  {
+    "id": 6,
+    "name": "Home Xags",
+    "fieldTypeId": 8,
+    "fieldDetails": {
+      "display_name": "",
+      "reference_name": "",
+      "default_value": "",
+      "custom_validation": "",
+      "fieldGroupId": 2,
+      "tags": []
+    }
+  }
+]

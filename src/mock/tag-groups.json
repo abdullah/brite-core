@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "VinMaster",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Parker",
+        "groupId": 1
+      },
+      {
+        "id": 2,
+        "name": "Sneezem",
+        "groupId": 1
+      },
+      {
+        "id": 3,
+        "name": "Simononsky",
+        "groupId": 1
+      },
+      {
+        "id": 4,
+        "name": "Bownes",
+        "groupId": 1
+      },
+      {
+        "id": 5,
+        "name": "Dyzart",
+        "groupId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Joseland",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Logsdale",
+        "groupId": 2
+      },
+      {
+        "id": 2,
+        "name": "Rookwell",
+        "groupId": 2
+      },
+      {
+        "id": 3,
+        "name": "Hadingham",
+        "groupId": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vivien",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Knotte",
+        "groupId": 3
+      },
+      {
+        "id": 2,
+        "name": "Halhead",
+        "groupId": 3
+      }
+    ]
+  }
+]
